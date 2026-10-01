@@ -1,16 +1,13 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dharshith%20M&fontAlign=50&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Developer&descAlign=50&descAlignY=60&animation=fadeIn"/>
-</p>
-
-<!-- ===================== TYPING SVG ===================== -->
+<h1 align="center">Hi 👋, I'm Dharshith M</h1>
+<h3 align="center">AI & Data Science Student | AI/ML • Computer Vision • IoT</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+YOLOv8;IoT+%7C+ESP32+%7C+MicroPython;Building+AI+Solutions+for+Real-World+Problems"
-      alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=850&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+YOLOv8;IoT+%7C+ESP32+%7C+MicroPython;Python+%7C+PyTorch+%7C+TensorFlow;Building+AI+Solutions+for+Real-World+Problems"
+      alt="Animated typing introduction"
     />
   </a>
 </p>
@@ -128,7 +125,7 @@ AI-powered application for analysing, classifying and summarizing industrial met
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dharshith15&hide_border=true"
+    src="https://streak-stats.demolab.com?user=dharshith15&theme=github-dark-blue&hide_border=true"
   />
 </p>
 
@@ -138,7 +135,8 @@ AI-powered application for analysing, classifying and summarizing industrial met
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dharshith15&hide_border=true&area=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharshith15&theme=github_dark&animation=draw"
+    alt="Dharshith's GitHub contribution activity"
   />
 </p>
 
@@ -158,7 +156,7 @@ AI-powered application for analysing, classifying and summarizing industrial met
 
 <p align="center">
 
-<a href="mailto:dharshith.2411014@srec.ac.in">
+<a href="mailto:dharshithmurugan1507@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -177,5 +175,5 @@ AI-powered application for analysing, classifying and summarizing industrial met
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+  <b>⚡ Code • Learn • Build • Repeat ⚡</b>
 </p>
