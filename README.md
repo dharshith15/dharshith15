@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dharshith15&label=Profile%20Views&style=flat-square" />
 </p>
 
 ---
@@ -37,92 +37,125 @@ class Dharshith:
 
     def current_goal(self):
         return "Building practical AI solutions for real-world problems"
-🎓 B.Tech Artificial Intelligence & Data Science
-🤖 Interested in AI, Machine Learning & Deep Learning
-👁️ Exploring Computer Vision and YOLOv8
-🔌 Building IoT systems using ESP32 & MicroPython
-📊 Working with Data Analysis & Visualization
-🚀 Interested in developing intelligent real-world applications
+```
 
-⚡ Tech Stack
-Languages
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 🤖 Interested in AI, Machine Learning & Deep Learning
+- 👁️ Exploring Computer Vision and YOLOv8
+- 🔌 Building IoT systems using ESP32 & MicroPython
+- 📊 Working with Data Analysis & Visualization
+- 🚀 Interested in developing intelligent real-world applications
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,javascript,html,css" />
 </p>
 
-AI / Machine Learning
+### AI / Machine Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-YOLOv8 • Scikit-learn • Machine Learning • Deep Learning • Computer Vision
-Data Science
+`YOLOv8` • `Scikit-learn` • `Machine Learning` • `Deep Learning` • `Computer Vision`
+
+### Data Science
+
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-Pandas • NumPy • Matplotlib • Data Analysis • Data Visualization
-Development & Tools
+`Pandas` • `NumPy` • `Matplotlib` • `Data Analysis` • `Data Visualization`
+
+### Development & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,flutter" />
 </p>
 
-Google Colab • Jupyter Notebook • Streamlit
-IoT
+`Google Colab` • `Jupyter Notebook` • `Streamlit`
+
+### IoT
+
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-ESP32 • MicroPython • DHT22 • MQ Sensors
-🚀 Featured Projects
-👁️ Vision Talk
-AI Assistive System for the Visually Impaired
+`ESP32` • `MicroPython` • `DHT22` • `MQ Sensors`
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ Vision Talk
+**AI Assistive System for the Visually Impaired**
+
 Real-time AI assistive system for object detection, classification and scene understanding.
 
-Tech:
-YOLOv8 • MobileNetV2 • BLIP • Computer Vision • Offline TTS
-🌱 Agrosphere360
+**Tech:** `YOLOv8` • `MobileNetV2` • `BLIP` • `Computer Vision` • `Offline TTS`
+
+### 🌱 Agrosphere360
+
 IoT-based environmental monitoring system for real-time temperature, humidity and gas monitoring.
 
-Tech:
-ESP32 • MicroPython • DHT22 • MQ-136 • OLED
-📄 Industry Metal Certificate Summarizer
+**Tech:** `ESP32` • `MicroPython` • `DHT22` • `MQ-136` • `OLED`
+
+### 📄 Industry Metal Certificate Summarizer
+
 AI-powered application for analysing, classifying and summarizing industrial metal certificates.
 
-Focus:
-Artificial Intelligence • Document Analysis • Classification • Summarization
-📊 GitHub Analytics
+**Focus:** `Artificial Intelligence` • `Document Analysis` • `Classification` • `Summarization`
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=dharshith15&show_icons=true&hide_border=true"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshith15&layout=compact&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dharshith15&hide_border=true"
   />
 </p>
 
-📈 Contribution Activity
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dharshith15&hide_border=true&area=true"
   />
 </p>
 
-🏆 Certifications & Learning
+---
+
+## 🏆 Certifications & Learning
+
 - 🤖 AI & Data Science — Nehru College of Management
 - 🏥 AI in Healthcare — St. Joseph's Institute of Technology
 - 🔬 AI Tools for Research — A.C.T Academy
 - 🦾 AI Impact on Software, Robotics & Engineering Fields
 - 🎤 Virtual TED Talk — People Factor in Organizations & Power of Culture
-🤝 Connect With Me
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
 
 <a href="mailto:dharshith.2411014@srec.ac.in">
@@ -135,6 +168,8 @@ Artificial Intelligence • Document Analysis • Classification • Summarizati
 
 </p>
 
+---
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Repeat.;Turning+ideas+into+intelligent+systems."
@@ -144,4 +179,3 @@ Artificial Intelligence • Document Analysis • Classification • Summarizati
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 </p>
-```
