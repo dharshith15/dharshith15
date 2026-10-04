@@ -1,179 +1,42 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+## Selected work
 
-<h1 align="center">Hi 👋, I'm Dharshith M</h1>
-<h3 align="center">AI & Data Science Student | AI/ML • Computer Vision • IoT</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=850&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+YOLOv8;IoT+%7C+ESP32+%7C+MicroPython;Python+%7C+PyTorch+%7C+TensorFlow;Building+AI+Solutions+for+Real-World+Problems"
-      alt="Animated typing introduction"
-    />
-  </a>
-</p>
+<div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharshith15&label=Profile%20Views&style=flat-square" />
+  <img src="https://www.gitskins.com/api/section/hero?username=dharshith15&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F336474648%3Fu%3D4d572689edc597a6f13c850dbcad1ac77761e638%26v%3D4" alt="dharshith15 hero visual" />
 </p>
 
----
+<h1>Dharshith Murugan</h1>
+<p><b>Freelance developer or consultant</b></p>
 
-## 👨‍💻 About Me
+</div>
 
-```python
-class Dharshith:
-    def __init__(self):
-        self.role = "AI & Data Science Student"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "IoT"
-        ]
+## The idea behind the work
 
-    def current_goal(self):
-        return "Building practical AI solutions for real-world problems"
-```
+> AI &amp; Data Science Student | Python | Machine Learning | Computer Vision | IoT | YOLOv8 | PyTorch | TensorFlow | Building practical AI solutions
 
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 🤖 Interested in AI, Machine Learning & Deep Learning
-- 👁️ Exploring Computer Vision and YOLOv8
-- 🔌 Building IoT systems using ESP32 & MicroPython
-- 📊 Working with Data Analysis & Visualization
-- 🚀 Interested in developing intelligent real-world applications
+- 📍 Based in **Coimbatore**
+- 🏢 Working at **Sri Ramakrishna Engineering College**
+- 👥 **0** followers · **0** following
 
----
+*Small, useful work over vague claims.*
 
-## ⚡ Tech Stack
+## Case studies
 
-### Languages
+<table>
+<tr><td width="32%"><b><a href="https://github.com/dharshith15/dharshith15">dharshith15</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,javascript,html,css" />
-</p>
+## Creative toolkit
 
-### AI / Machine Learning
+No public language data yet — building the first project in the open.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-`YOLOv8` • `Scikit-learn` • `Machine Learning` • `Deep Learning` • `Computer Vision`
-
-### Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`Pandas` • `NumPy` • `Matplotlib` • `Data Analysis` • `Data Visualization`
-
-### Development & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,flutter" />
-</p>
-
-`Google Colab` • `Jupyter Notebook` • `Streamlit`
-
-### IoT
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-`ESP32` • `MicroPython` • `DHT22` • `MQ Sensors`
-
----
-
-## 🚀 Featured Projects
-
-### 👁️ Vision Talk
-**AI Assistive System for the Visually Impaired**
-
-Real-time AI assistive system for object detection, classification and scene understanding.
-
-**Tech:** `YOLOv8` • `MobileNetV2` • `BLIP` • `Computer Vision` • `Offline TTS`
-
-### 🌱 Agrosphere360
-
-IoT-based environmental monitoring system for real-time temperature, humidity and gas monitoring.
-
-**Tech:** `ESP32` • `MicroPython` • `DHT22` • `MQ-136` • `OLED`
-
-### 📄 Industry Metal Certificate Summarizer
-
-AI-powered application for analysing, classifying and summarizing industrial metal certificates.
-
-**Focus:** `Artificial Intelligence` • `Document Analysis` • `Classification` • `Summarization`
-
----
-
-## 📊 GitHub Analytics
+## Make something memorable
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=dharshith15&show_icons=true&hide_border=true"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshith15&layout=compact&hide_border=true"
-  />
+  <img src="https://www.gitskins.com/api/section/social?username=dharshith15&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F336474648%3Fu%3D4d572689edc597a6f13c850dbcad1ac77761e638%26v%3D4" alt="dharshith15 social visual" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dharshith15&theme=github-dark-blue&hide_border=true"
-  />
-</p>
+<a href="https://github.com/dharshith15">GitHub</a>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharshith15&theme=github_dark&animation=draw"
-    alt="Dharshith's GitHub contribution activity"
-  />
-</p>
-
----
-
-## 🏆 Certifications & Learning
-
-- 🤖 AI & Data Science — Nehru College of Management
-- 🏥 AI in Healthcare — St. Joseph's Institute of Technology
-- 🔬 AI Tools for Research — A.C.T Academy
-- 🦾 AI Impact on Software, Robotics & Engineering Fields
-- 🎤 Virtual TED Talk — People Factor in Organizations & Power of Culture
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:dharshithmurugan1507@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dharshith-murugan-04667933a">
-  <img src="https://img.shields.io/badge/LinkedIn-Dharshith_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Repeat.;Turning+ideas+into+intelligent+systems."
-  />
-</p>
-
-<p align="center">
-  <b>⚡ Code • Learn • Build • Repeat ⚡</b>
-</p>
+<p align="center"><sub>Dharshith Murugan · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
