@@ -16,7 +16,7 @@
 > AI &amp; Data Science Student | Python | Machine Learning | Computer Vision | IoT | YOLOv8 | PyTorch | TensorFlow | Building practical AI solutions
 
 - 📍 Based in **Coimbatore**
-- 🏢 Working at **Sri Ramakrishna Engineering College**
+- 🏢 Studying at **Sri Ramakrishna Engineering College**
 - 👥 **0** followers · **0** following
 
 *Small, useful work over vague claims.*
